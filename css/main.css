@@ -3044,8 +3044,8 @@ html.no-csstransitions .home-content__main {
     background-image: url("../images/contac-bg.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
-    padding-top: 13.2rem;
-    padding-bottom: 12rem;
+    padding-top: 8.2rem;
+    padding-bottom: 5rem;
     position: relative;
 }
 
@@ -3303,7 +3303,7 @@ html.no-csstransitions .home-content__main {
 footer {
     font-family: "montserrat-regular", sans-serif;
     font-size: 14px;
-    padding: 6.6rem 0 4.2rem;
+    padding: 6.6rem 0 2.2rem;
     text-align: center;
     color: rgba(255, 255, 255, 0.2);
 }
@@ -3378,7 +3378,7 @@ footer a:hover, footer a:focus {
 }
 
 .footer-bottom {
-    margin-top: 7.2rem;
+    margin-top: 3.2rem;
     text-align: center;
 }
 
